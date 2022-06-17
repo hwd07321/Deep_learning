@@ -1,3 +1,15 @@
+# This code is the first attempt of pytorch, in this code, I rewrite the two method includeing __getitem__ and __len__ in datasets class which inherited the basic
+# class datasets, and this class would supply the train or test data to Dataloader
+
+# We use Dataloader to load data
+
+# build network
+
+# train and test network
+
+
+
+
 import torch.nn as nn
 import pickle
 import numpy as np
